@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BASE COLORS -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#f2b205</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="celeste">#b6dade</color>
+    <color name="violet">#2F3E8C</color>
+    <color name="dark_green">#215561</color>
+
+    <color name="colorPrimary">#FF4053</color>
+    <color name="colorPrimaryDark">#c0303f</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="colorPrimaryLight">#FFCDD2</color>
+
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+
+    <color name="bg_main">#D1D1D1</color>
+
+    <color name="divider">#BDBDBD</color>
+
+</resources>

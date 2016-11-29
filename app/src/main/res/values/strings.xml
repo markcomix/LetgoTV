@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">LetgoTV</string>
+
+    <string name="default_error">Something went wrong, please try again</string>
+    <string name="get_feed_generic_error_message">The feed list couldn\'t be retrieved</string>
+    <string name="get_detail_generic_error_message">The detail list couldn\'t be retrieved</string>
+
+    <string name="network_error_fail">Unable to connect. Check that you are connected to the Internet and try again</string>
+
+    <string name="exit_app">Press the back button once again to close the application.</string>
+
+    <string name="list_item_feed_vote_average">Vote average</string>
+
+    <string name="fragment_detail_first_air_date">First Air Date:\u0020</string>
+    <string name="fragment_detail_title">Title</string>
+    <string name="fragment_detail_overview">Overview:</string>
+</resources>

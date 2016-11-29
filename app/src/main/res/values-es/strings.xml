@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">LetgoTV</string>
+
+    <string name="default_error">Algo salio mal, por favor vuelva a intentarlo</string>
+    <string name="get_feed_generic_error_message">No fue posible obtener la lista de datoa</string>
+    <string name="get_detail_generic_error_message">No fue posible obtener la lista de detalles</string>
+
+    <string name="network_error_fail">Imposible conectarse. Verifique su conexion a internet y vuelva a intentarlo</string>
+    <string name="list_item_feed_vote_average">Calificación</string>
+
+    <string name="fragment_detail_first_air_date">Fecha de estreno:\u0020</string>
+    <string name="fragment_detail_title">Titulo</string>
+    <string name="fragment_detail_overview">Resumen:</string>
+</resources>
