@@ -1,5 +1,11 @@
 # Letgo TV - Android challenge for Letgo
 
+### Screenshots
+
+![alt tag](https://github.com/markcomix/LetgoTV/blob/master/screenshot_1.png)
+
+![alt tag](https://github.com/markcomix/LetgoTV/blob/master/screenshot_2.png)
+
 ### Features
 
 + List of most popular TV Shows
